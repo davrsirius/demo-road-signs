@@ -1,6 +1,10 @@
 *, *::before, *::after {
     box-sizing: border-box;
 }
+
+.container {
+    font-size: 1.5rem;
+}
 .main-header {
     display: flex;
     gap: 1rem;
